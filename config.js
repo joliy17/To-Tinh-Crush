@@ -1,19 +1,17 @@
 const CONFIG = {
-    introTitle: 'Tên người yêu bạn à!',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: 'hihi',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Vẫn cứ là thích anh <33',
-    btnNo: 'Không, Anh trai à :3',
-    question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
-    btnReply: 'Gửi cho anh <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h anh qua đón nhé công chúa.',
-    btnAccept: 'Okiiiii lun <3',
-    messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    introTitle: 'Này cậu ơi!',
+    introDesc: `Tớ có điều này muốn hỏi cậu
+    Cậu phải trả lời cho tớ biết đấy nhá`,
+    btnIntro: 'Đi thôi',
+    title :  ' Nói cho tớ biết đi cậu thật sự rất vui vì tớ đã xuất hiện trong cuộc đời đúng hong nèe',
+    desc: 'Đừng có thoát ra, cậu hong trả lời tớ buồn lắm đấy ',
+    btnYes: 'Tớ rất vui vì có cậu <3',
+    btnNo: 'Cậu đang mơ đấy à, cô gái',
+    question:'Được rồi, nói cho tớ nghe lý do cậu quý mến tớ đi',
+    btnReply: 'Gửi cho tớ <3',
+    reply: 'Vì tớ rất quý mến cậu',
+    mess: 'Tớ biết mà, tớ cũng yêu cậu nhiều nhiều',
+    messDesc: 'Còn chần chờ gì nữa còn hong mau nhắn tin cho tớ, cậu ở nhà chắc chán lắm rồi đúng hong, mau lên tớ đang đợi cậu đấy',
+    btnAccept: 'Vâng <3 ',
+    messLink: 'https://www.facebook.com/profile.php?id=100020748405571'
 }
